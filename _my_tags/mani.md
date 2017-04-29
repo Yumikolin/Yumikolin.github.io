@@ -1,0 +1,4 @@
+---
+slug: mani
+name: mani
+---
