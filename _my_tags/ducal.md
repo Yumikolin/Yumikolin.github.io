@@ -1,0 +1,4 @@
+---
+slug: ducal
+name: ducal
+---
