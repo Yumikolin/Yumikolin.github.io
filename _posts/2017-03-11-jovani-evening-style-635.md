@@ -3,7 +3,7 @@ layout: post
 date: '2017-03-11'
 title: "Jovani Evening - Style 635"
 category: Short & Cocktail
-tags: ["style","dresses","evening","beaded","prom"]
+tags: ["style","evening","elegant","prom","jovani"]
 image: http://img.sequinious.com/20646-thickbox_default/jovani-evening-style-635.jpg
 ---
 Jovani Evening - Style 635
