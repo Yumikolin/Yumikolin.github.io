@@ -1,0 +1,4 @@
+---
+slug: dale
+name: dale
+---
